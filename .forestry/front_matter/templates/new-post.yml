@@ -1,4 +1,6 @@
 ---
+pages:
+- _posts/2018-02-22-test.md
 hide_body: false
 fields:
 - name: layout
