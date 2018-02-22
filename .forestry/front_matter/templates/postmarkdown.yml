@@ -1,0 +1,23 @@
+---
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: datetime
+  label: Date
+  name: date
+  config:
+    time_format: HH:mm
+    date_format: DD/MM/YYYY
+    required: true
+- type: textarea
+  name: body
+  label: Body
+  config:
+    required: true
+- type: image_gallery
+  name: upload
+  label: Upload
