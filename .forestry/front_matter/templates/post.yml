@@ -1,0 +1,26 @@
+---
+hide_body: false
+fields:
+- type: text
+  label: Title
+  name: title
+  config:
+    required: true
+- type: datetime
+  default: Invalid date
+  label: Date
+  name: date
+  config:
+    date_format: DD/MM/YYYY
+    time_format: HH:mm
+    required: true
+- type: textarea
+  name: body
+  label: Body
+  config:
+    required: true
+    wysiwyg: true
+  hidden: false
+- type: image_gallery
+  name: upload
+  label: Upload
