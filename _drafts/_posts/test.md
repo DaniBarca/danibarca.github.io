@@ -1,4 +1,8 @@
 ---
 title: Test
-date: 2018-02-22 00:00:00 +0000
+date: 2018-02-22 13:30:59 +0100
+body: '#Test<br><br>blablabla<br><br><img src="/uploads/2018/02/22/Screen Shot 2018-02-21
+  at 10.16.27.png">'
+upload:
+- "/uploads/2018/02/22/Screen Shot 2018-02-21 at 10.16.27.png"
 ---
