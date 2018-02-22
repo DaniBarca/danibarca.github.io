@@ -1,6 +1,4 @@
 ---
 main:
-- title: About
-  url: "/about/"
 - title: GitHub
   url: https://github.com/DaniBarca
