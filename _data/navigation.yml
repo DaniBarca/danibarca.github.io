@@ -1,4 +1,6 @@
 ---
 main:
+- title: Twitter
+  url: http://twitter.com/DaniBarca
 - title: GitHub
   url: https://github.com/DaniBarca
