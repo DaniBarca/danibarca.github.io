@@ -21,6 +21,6 @@ fields:
     time_format: HH:mm
     date_format: DD/MM/YYYY
 pages:
-- _posts/thoughts-on-press.md
+- _posts/2018-06-02-thoughts-on-press.md
 - _posts/2018-02-24-starting-over.md
 - _posts/proyeccion-punto-rayo-y-punto-linea.md
