@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: danibarca.com
+Token: b43b19af952667694de8d5621d8f79b147b413572319eead4edf6ae7193eed5d
