@@ -43,7 +43,9 @@ $on-laptop:        800px;
   }
 }
 
-
+.posts > .post {
+  text-align: justify;
+}
 
 // Import partials from the `whiteglass` theme.
 @import "whiteglass";
