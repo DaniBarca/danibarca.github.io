@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2020-07-14 18:00:00 +0200
+date: 2020-07-14T18:00:00.000+02:00
 title: Twitter and negativity
 
 ---
@@ -8,11 +8,11 @@ I created this blog on 2018 but haven't quite used it since. Many years ago I us
 
 But as we are all probably starting to realise: Twitter is an incredibly toxic network. For several years I was really active there and its aura of negativity was slowly taking a hit on my mood.
 
-I don't mean this in a technophobic sense. The problem of Twitter is actually the result of putting everybody's opinions in the same place: it doesn't matter what happens, be it bad or good: there will always be someone who will have something really bad to say about it, and that will be much more impactful on our perception that any other positive thing out there. Of course many other people, probably with good intentions, will have another really negative thing to say about the first negative thing, creating an absurd chain of thoughts that is extremely unlikely to end calm and thoughtfully.
+I don't mean it in a technophobic sense. The problem of Twitter is actually the result of putting everybody's opinions in the same place: it doesn't matter what happens, be it bad or good: there will always be someone who will have something really bad to say about it, and that will be much more impactful on our perception that any other positive thing out there. Of course many other people, probably with good intentions, will have another really negative thing to say about the first negative thing, creating an absurd chain of thoughts that is extremely unlikely to end calm and thoughtfully.
 
 At first I thought it was about politics, so I decided to remove all my twitter posts and start by scratch ignoring all the political discussion that is going on there. But of course that only softened the problem a little bit: the discussions about videogame consoles, or tech devices, anything I could be interested in is, for many, a great excuse to have an argument, usually involving insults and rage.
 
-So the problem here is not Twitter: it's in our nature. Even if we have no intention of arguing, we subconsciously feel attacked by negative views of a topic and feel the need to respond equally. It's just a matter of time that we will read something that will go beyond our tolerance boundaries and will trigger our need to respond. 
+So the problem here is not Twitter: it's in our nature. Even if we have no intention of arguing, we subconsciously feel attacked by negative views of a topic and feel the need to respond equally. It's just a matter of time that we will read something that will go beyond our tolerance boundaries and will trigger our need to respond.
 
 Twitter is a giant amplifier of negative ideas. Add here the general infantilisation that our society seems to be suffering (a whole world whining whenever something does not go as we want to), and the ill-intended trolls and bots, and you have the perfect bomb for your mood.
 
