@@ -1,7 +1,8 @@
 ---
 title: Thoughts on press
 layout: post
-date: 2018-06-03 00:00:00 +0200
+date: 2018-06-02T22:00:00.000+00:00
+
 ---
 During the last few months I’ve had many concerns about ethics in journalism. The political issues in Spain, which suffers of great political corruption and regional secession movements, have ended with most national newspapers aligning its news with certain ideologies. It’s not a secret that Spanish press has problems to fund itself and it is much more lucrative to play with interests than just telling the truth. One of my favourites examples is [the front page of “La Razón”](https://www.larazon.es/documents/10165/0/837x1031/0c0/0d0/none/10810/CLFV/image_content_3111708_20150523001005.jpg), one of the most important newspapers of the country, asking its readers to vote for a certain party on the previous day of an election (a day when promoting political parties is supposed to be forbidden).
 
