@@ -9,4 +9,4 @@ Ternary operator is also known as Elvis operator. Named this way because of of E
 
 ![ElvisOperator][ElvisOperator]
 
-[ElvisOperator]: images/ElvisOperator.png
+[ElvisOperator]: https://danibarca.com/images/ElvisOperator.png

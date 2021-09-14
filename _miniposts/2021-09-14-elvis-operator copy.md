@@ -17,4 +17,4 @@ There are still a couple details that could be easier, like drag-drop uploading 
 
 [markdown preview]: https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles
 
-[ghdev]: images/ghdev.png
+[ghdev]: https://danibarca.com/images/ghdev.png
