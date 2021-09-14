@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2021-09-14T19:00:00.000+02:00
-title: TIL: Elvis operator
+title: TIL&#58; Elvis operator
 categories: minipost
 
 ---
