@@ -13,7 +13,7 @@ In combination with GitHub Pages and an [extension for markdown preview][markdow
 
 There are still a couple details that could be easier, like drag-drop uploading images to a post, but I bet we soon will see extensions allowing these kind of things.
 
-![GH dev screenshot][ghdev]
+[![GH dev screenshot][ghdev]][ghdev]
 
 [markdown preview]: https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles
 
