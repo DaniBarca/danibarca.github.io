@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2021-09-14T20:00:00.000+02:00
+date: 2021-09-15T20:00:00.000+02:00
 title: "Pressing dot (.) on a GitHub repo opens an in-browser editor"
 categories: minipost
 
