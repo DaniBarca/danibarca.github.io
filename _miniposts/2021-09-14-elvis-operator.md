@@ -7,6 +7,6 @@ categories: minipost
 ---
 Ternary operator is also known as Elvis operator. Named this way because of of Elvis Presley's quiff.
 
-![test][ElvisOperator]
+![ElvisOperator][ElvisOperator]
 
-[ElvisOperator]: https://danibarca.com/images/ElvisOperator.png
+[ElvisOperator]: images/ElvisOperator.png
