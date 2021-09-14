@@ -3,7 +3,8 @@ layout: default
 ---
 
 <div class="posts">
-  {% for post in site.miniposts reversed%}
+  {% assign miniposts = site.miniposts reversed %}
+  {% for post in miniposts %}
     {% if post.categories contains "minipost" %}
       <article class="post">
 
@@ -16,7 +17,7 @@ layout: default
         <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
       </article>
     {% endif %}
-    {% if post != (site.miniposts reversed).last %}
+    {% if post != miniposts.last %}
     <hr>
     {% endif %}
   {% endfor %}
