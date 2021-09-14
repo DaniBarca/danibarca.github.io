@@ -17,7 +17,7 @@ title: Daniel Barca
 author: Daniel Barca
 description: Cosas
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://danibarca.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://danibarca.com" # the base hostname & protocol for your site, e.g. http://example.com
 lang: en
 timezone: UTC
 exclude:
@@ -32,10 +32,6 @@ exclude:
   - vendor
 
 # Social media
-twitter_username: danibarca
-twitter_image:
-facebook_app_id:
-facebook_image:
 google_analytics: UA-62725810-1
 comments: false
 
