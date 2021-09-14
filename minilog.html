@@ -16,7 +16,7 @@ layout: default
         <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
       </article>
     {% endif %}
-    {% if post != site.miniposts.last %}
+    {% if post != (site.miniposts reversed).last %}
     <hr>
     {% endif %}
   {% endfor %}
