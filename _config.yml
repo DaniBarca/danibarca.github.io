@@ -73,3 +73,7 @@ jekyll-archives:
   permalinks:
     category: /categories/:name/
     tag: /tags/:name/
+
+collections:
+  miniposts:
+    output: true
