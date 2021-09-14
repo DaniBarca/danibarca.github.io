@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="posts">
-  {% for post in site.miniposts %}
+  {% for post in site.miniposts reversed%}
     {% if post.categories contains "minipost" %}
       <article class="post">
 
