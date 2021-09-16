@@ -7,7 +7,7 @@ layout: default
   {% for post in miniposts %}
     {% if post.categories contains "minipost" %}
     <div>
-      {{post.date}} -- <a href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a>
+      {{ post.date | date: "%d/%m/%Y" }} -- <a href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a>
     </div>
     {% endif %}
   {% endfor %}
