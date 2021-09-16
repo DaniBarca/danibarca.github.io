@@ -2,19 +2,12 @@
 layout: default
 ---
 
-<div class="posts">
+<div>
   {% for post in site.posts %}
     {% unless post.categories contains "minipost" %}
-      <article class="post">
-
-        <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-        <div class="entry">
-          {{ post.excerpt }}
-        </div>
-
-        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-      </article>
+      <div>
+        {{ post.date | date: "%d/%m/%Y" }} -- <a href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a>
+      </div>
     {% endunless %}
   {% endfor %}
 </div>
