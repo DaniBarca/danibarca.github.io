@@ -54,7 +54,7 @@
  * Site footer
  */
 .site-footer {
-  padding: $spacing-unit 0;
+//  padding: $spacing-unit 0;
   font-size: 15px;
   color: $grey-color;
   text-align: center;
@@ -66,7 +66,7 @@
  * Page content
  */
 .page-content {
-  padding: $spacing-unit 0;
+  padding-top: $spacing-unit;
 }
 
 .page-heading {
