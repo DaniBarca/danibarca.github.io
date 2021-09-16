@@ -3,12 +3,11 @@ layout: default
 ---
 
 <div>
-  {% assign miniposts = site.miniposts | reverse %}
-  {% for post in miniposts %}
-    {% if post.categories contains "minipost" %}
-    <div>
-      {{ post.date | date: "%d/%m/%Y" }} -- <a href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a>
-    </div>
-    {% endif %}
+  {% for post in site.posts %}
+    {% unless post.categories contains "minipost" %}
+      <div>
+        {{ post.date | date: "%d/%m/%Y" }} -- <a href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a>
+      </div>
+    {% endunless %}
   {% endfor %}
 </div>
