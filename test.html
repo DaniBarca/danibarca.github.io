@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<div>
+  {% assign miniposts = site.miniposts | reverse %}
+  {% for post in miniposts %}
+    {% if post.categories contains "minipost" %}
+      <a href="{{site.baseurl}}{{post.url}}>{{ post.title }}</a></br>
+    {% endif %}
+    {% if post != miniposts.last %}
+    <hr>
+    {% endif %}
+  {% endfor %}
+</div>
