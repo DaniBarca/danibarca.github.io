@@ -288,6 +288,18 @@ hr {
   margin: 25px 0;
 }
 
+.minipost{
+  border: 5px;
+  padding: 1px 5px 1px;
+  border-radius: 10px;
+  border-color: darkgray;
+  border-style: dotted solid;
+}
+
+.minipost>p:last-child{
+  margin-bottom: 1px;
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
