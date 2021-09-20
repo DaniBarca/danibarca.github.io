@@ -12,6 +12,10 @@ layout: default
 
         <div class="entry minipost">
           {{ post.content }}
+          <div class="minipost-data">
+            "{{ post.date | date: "%d/%m/%Y" }} --"&nbsp;
+            <a href="{{ site.baseurl }}{{ post.url }}">link</a>
+          </div>
         </div>
       </article>
     {% endif %}
