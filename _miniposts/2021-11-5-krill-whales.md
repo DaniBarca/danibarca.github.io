@@ -12,6 +12,6 @@ Since although every whale eats literally several tons of krill every day, they 
 
 Turns out whales have a very special role, which I guess it was already easy to imagine before, but it's bigger than what scientists believed until these findings were made. They now describe whales (in a bit dramatic yet easy to understand way) as "mobile processing plants". Given the size of those things maybe not so dramatic.
 
-https://news.stanford.edu/press-releases/2021/11/03/researchers-findles-eat-expected/
+[https://news.stanford.edu/press-releases/2021/11/03/researchers-findles-eat-expected/]()
 
 
