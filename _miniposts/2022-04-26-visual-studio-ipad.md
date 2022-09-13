@@ -2,7 +2,6 @@
 layout: post
 date: 2022-4-26T19:00:00.000+02:00
 title: "Visual studio code on an iPad"
-categories: minipost
 
 ---
 I recently got a pretty cheap second-hand 12.9 inch iPad Pro. I was already a fan of how the iPad is slowly gaining terrain to the PC, but wanted to go next-level and decided to try the Magic Keyboard for it. The keyboard is obscenely expensive, but it includes a trackpad and practically converts it into a laptop.

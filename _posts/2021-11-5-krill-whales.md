@@ -2,7 +2,6 @@
 layout: post
 date: 2021-11-05T18:00:00.000+02:00
 title: "Whales actually increase krill population"
-categories: minipost
 
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 date: 2021-09-14T20:00:00.000+02:00
 title: "Pressing dot (.) on a GitHub repo opens an in-browser editor"
-categories: minipost
 
 ---
 This literally rescued this blog. GitHub Pages and Jekyll are awesome but the process of writing a new post can be a bit tedious.
