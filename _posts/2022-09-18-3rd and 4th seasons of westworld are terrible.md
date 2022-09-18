@@ -10,4 +10,4 @@ Westworld's 1st season is one of my favourite TV series ever. It just has everyt
 
 I'm not sure if they changed the screenwriters or what but had to force myself to finish the 3rd season. For the fourth one, I'm not even sure if I'll finish it. I kind of want to know how everything ends but it's starting to feel a bit painful. Definitely feels like the screenwriters themselves don't quite know what to do with this series but HBO won't give up on one of their most followed TV series.
 
-Luckyly, I still believe the 1st 2 seasons are worth watching while ignoring the existence of the next ones. So not everything is lost I guess.
+Luckily, I still believe the 1st 2 seasons are worth watching while ignoring the existence of the next ones. So not everything is lost I guess.
